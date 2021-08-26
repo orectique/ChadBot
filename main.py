@@ -15,7 +15,7 @@ async def on_message(message):
     
     if message.author.guild_permissions.manage_messages == False:
         await message.author.edit(nick = 'Chad')
-    await message.channel.send('na he tweaking')
+    await message.channel.send('nah he tweaking')
       
     
 TOKEN = os.getenv("TOKEN")
