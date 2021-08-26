@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/orectique/ChadBot) ![Hit count](https://hits.vercel.app/orectique/chadbot.svg) [![Add to Server](https://img.shields.io/badge/Discord-Add%20to%20Server-blue)](https://discord.com/oauth2/authorize?client_id=880322522858545182&permissions=134219776&scope=bot)
+![Hit count](https://hits.vercel.app/orectique/chadbot.svg) [![Add to Server](https://img.shields.io/badge/Discord-Add%20to%20Server-blue)](https://discord.com/oauth2/authorize?client_id=880322522858545182&permissions=134219776&scope=bot)
 
 ## ChadBot
 
